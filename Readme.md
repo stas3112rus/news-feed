@@ -1,0 +1,1 @@
+link to json: https://my-json-server.typicode.com/stas3112rus/news-feed/news/
