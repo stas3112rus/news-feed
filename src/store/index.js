@@ -1,9 +1,8 @@
-import heroes from '../reducers/heroes';
-import filters from '../reducers/filters';
+import newsFeed from '../reducers/newsFeed';
 import { configureStore } from '@reduxjs/toolkit';
 
 const store = configureStore({
-    reducer: {heroes, filters},
+    reducer: {newsFeed},
     middleware: getDefaultMiddleware => getDefaultMiddleware(),
     devTools: process.env.NODE_EW !== 'production',    
 })

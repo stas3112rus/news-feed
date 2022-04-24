@@ -1,4 +1,7 @@
 import './news.scss';
+
+import { useState } from 'react';
+
 import Button from '../button/Button';
 import authorDefault from '../../img/author-default.png';
 import send from '../../icons/send.svg' ;
@@ -7,26 +10,48 @@ import options from '../../icons/options.svg';
 import star from '../../icons/star.svg';
 import notImage from '../../img/Image_not_available.png';
 
-const News = () => {
+const News = ({id, author, time, text, urlNews, newsImage, tags}) => {    
+    const [selected, setSelected] = useState(()=>{
+        const saved = localStorage.getItem(id);
+        const initialValue = JSON.parse(saved);
+        return initialValue || false;
+    });   
+
+    const onSelect = (e) => {
+        e.preventDefault();
+        
+        localStorage.setItem(id, !selected);
+        setSelected(!selected);
+    }
+
+    const {name, photo, textMainPost} = author;
+    const photoAuthor = photo ? photo : authorDefault
+    const photoNews = newsImage ? newsImage : notImage;
+
+    const tagsOnPage = tags.map(tag=>{
+        return <a key={`${id}-${tag.tag}`} href={tag.url} className="news__tags-link">{tag.tag}</a>
+    })
+
+    const classSelect = selected ? "news_selected" : null;
 
     return (
         <div className="news">
             <div className="news__author-photo">
-                <img src={authorDefault} alt="Фото автора" className="news__author-photo-img"/>
+                <img src={photoAuthor} alt={`фото автора ${name}`} className="news__author-photo-img"/>
             </div>
             <div className="news__top">
                 <div className="news__top-left">
-                    <div className="news__author-name">Nina Malofeeva</div>
-                    <div className="news__text-main-post">Текст поста в соц. сетях если это комментарий</div>
+                    <div className="news__author-name">{name}</div>
+                    <div className="news__text-main-post">{textMainPost}</div>
                 </div>
                 <div className="news__top-right">
                     <div className="buttons news_buttons">
-                        <Button name='Левый'/>
-                        <Button name='Центр'/>
-                        <Button name='Правый'/>
+                        <Button key={`${id}-left`} name='Левый'/>
+                        <Button key={`${id}-center`} name='Центр'/>
+                        <Button key={`${id}-right`} name='Правый'/>
                     </div>
                     <div className="news__icons">
-                        <a href="123" className="news__icon">
+                        <a href={"123"} className="news__icon">
                             <img src={send} alt=""/>
                         </a>
                         <a href="123" className="news__icon">
@@ -35,22 +60,24 @@ const News = () => {
                         <a href="123" className="news__icon">
                             <img src={options} alt=""/>
                         </a>
-                        <a href="123" className="news__icon">
-                            <img src={star} alt="" className="news_selected"/>
+                        <a href="123" 
+                            className="news__icon"
+                            onClick={(e)=>onSelect(e)}
+                            >
+                            <img src={star} alt="" className={classSelect}/>
                         </a>
                     </div>
                 </div>           
 
-            </div>
-          
+            </div>          
             <div className="news__time">
-                15:57
+                {time}
             </div>
             <div className="news__text">
                 <div className="news__text-main">
-                    "Россия 1" не боится снимать сериалы о сложных и неоднозначных периодах в истории нашей страны. Это и "В круге первом", и "Жизнь и судьба", и "Зулейха". Идёт работа над "Одним днём Ивана Денисовича". Вопрос Антону Златопольскому -почему вы считаете 
+                    {text}
                 </div>                    
-                <a href="123" className="news__link-next">
+                <a href={urlNews} className="news__link-next">
                     Далее
                 </a>
             </div> 
@@ -59,18 +86,11 @@ const News = () => {
             
             </div>
             <div className='news__photo'>
-                <img src={notImage} alt="Картинка новости"/>
+                <img src={photoNews} alt="Картинка новости"/>
             </div>
             <div className="news__tags">
-                <a href="123" className="news__tags-link">
-                    #Новое
-                </a>
-                <a href="123" className="news__tags-link">
-                    #Эксперт
-                </a>
-
+                {tagsOnPage}
             </div> 
-
         </div>
     )
 }

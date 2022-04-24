@@ -1,0 +1,468 @@
+{
+    "news": [
+      {
+        "id": 1,
+        "author": {
+            "name": "Nina Malofeeva",
+            "photo": false,
+            "textMainPost": "Текст поста в соц. сетях если это комментарий"
+        },
+        "time": "15:57",
+        "text": "\"Россия 1\" не боится снимать сериалы о сложных и неоднозначных периодах в истории нашей страны. Это и \"В круге первом\", и \"Жизнь и судьба\", и \"Зулейха\". Идёт работа над \"Одним днём Ивана Денисовича\". Вопрос Антону Златопольскому - почему вы считаете",
+        "urlNews" : "http://google.com/",
+        "newsImage": false,
+        "tags": [
+            {
+                "tag": "#Новое",
+                "url": "https://yandex.ru/"
+            },
+            {
+                "tag": "#Эксперт",
+                "url": "https://vk.com/"
+            }
+        ]
+      },
+      {
+        "id": 2,
+        "author": {
+            "name": "Петр петров",
+            "photo": "https://sun3.43222.userapi.com/s/v1/ig2/Jpkwlrq0-BhHQJvVTBn33kE3O97CGOlQjJiGp8G2b9j9Sof0SOt-e5_hakks6l54t-gS9_j4DRr25d0Zbxkh4JLR.jpg?size=50x50&quality=95&crop=168,388,1520,1520&ava=1",
+            "textMainPost": "Текст поста в соц. сетях если это комментарий"
+        },
+        "time": "20:30",
+        "text": "Применение противоспутникового оружия по космическому аппарату другой страны может стать причиной начала третьей мировой войны, заявил глава \"Роскосмоса\" Дмитрий Рогозин",
+        "urlNews" : "https://yandex.ru/news/",
+        "newsImage":"",
+        "tags": [
+            {
+                "tag": "#Баян",
+                "url": "https://ru.wikipedia.org/wiki/Dragon_2_(%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C)"
+            },
+            {
+                "tag": "#Батут",
+                "url": "https://ru.wikipedia.org/wiki/Dragon_2_(%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C)"
+            }
+        ]
+      },
+      {
+        "id": 3,
+        "author": {
+            "name": "Григорий Изумрудов",
+            "photo": "https://sun3.43222.userapi.com/s/v1/ig2/Jpkwlrq0-BhHQJvVTBn33kE3O97CGOlQjJiGp8G2b9j9Sof0SOt-e5_hakks6l54t-gS9_j4DRr25d0Zbxkh4JLR.jpg?size=50x50&quality=95&crop=168,388,1520,1520&ava=1",
+            "textMainPost": "Текст поста в соц. сетях если это комментарий"
+        },
+        "time": "20:30",
+        "text": "Применение противоспутникового оружия по космическому аппарату другой страны может стать причиной начала третьей мировой войны, заявил глава \"Роскосмоса\" Дмитрий Рогозин",
+        "urlNews" : "https://yandex.ru/news/",
+        "newsImage":"https://www.google.com/url?sa=i&url=http%3A%2F%2Frussian.people.com.cn%2F31516%2F8470040.html&psig=AOvVaw3VoI-wJ_Xo-Yt_jCmCd71Y&ust=1650886289924000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDo4OnMrPcCFQAAAAAdAAAAABAD",
+        "tags": [
+            {
+                "tag": "#Баян",
+                "url": "https://ru.wikipedia.org/wiki/Dragon_2_(%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C)"
+            },
+            {
+                "tag": "#Батут",
+                "url": "https://ru.wikipedia.org/wiki/Dragon_2_(%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C)"
+            }
+        ]
+      },
+      {
+        "id": 4,
+        "author": {
+            "name": "Андрей Гусаров",
+            "photo": "https://sun3.43222.userapi.com/s/v1/ig2/Jpkwlrq0-BhHQJvVTBn33kE3O97CGOlQjJiGp8G2b9j9Sof0SOt-e5_hakks6l54t-gS9_j4DRr25d0Zbxkh4JLR.jpg?size=50x50&quality=95&crop=168,388,1520,1520&ava=1",
+            "textMainPost": "Текст поста в соц. сетях если это комментарий"
+        },
+        "time": "20:30",
+        "text": "Применение противоспутникового оружия по космическому аппарату другой страны может стать причиной начала третьей мировой войны, заявил глава \"Роскосмоса\" Дмитрий Рогозин",
+        "urlNews" : "https://yandex.ru/news/",
+        "newsImage":"https://www.google.com/url?sa=i&url=http%3A%2F%2Frussian.people.com.cn%2F31516%2F8470040.html&psig=AOvVaw3VoI-wJ_Xo-Yt_jCmCd71Y&ust=1650886289924000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDo4OnMrPcCFQAAAAAdAAAAABAD",
+        "tags": [
+            {
+                "tag": "#Баян",
+                "url": "https://ru.wikipedia.org/wiki/Dragon_2_(%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C)"
+            },
+            {
+                "tag": "#Батут",
+                "url": "https://ru.wikipedia.org/wiki/Dragon_2_(%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C)"
+            }
+        ]
+      },
+      {
+        "id": 5,
+        "author": {
+            "name": "Дмитрий Иванов",
+            "photo": "https://sun3.43222.userapi.com/s/v1/ig2/Jpkwlrq0-BhHQJvVTBn33kE3O97CGOlQjJiGp8G2b9j9Sof0SOt-e5_hakks6l54t-gS9_j4DRr25d0Zbxkh4JLR.jpg?size=50x50&quality=95&crop=168,388,1520,1520&ava=1",
+            "textMainPost": "Текст поста в соц. сетях если это комментарий"
+        },
+        "time": "20:30",
+        "text": "Применение противоспутникового оружия по космическому аппарату другой страны может стать причиной начала третьей мировой войны, заявил глава \"Роскосмоса\" Дмитрий Рогозин",
+        "urlNews" : "https://yandex.ru/news/",
+        "newsImage":"https://www.google.com/url?sa=i&url=http%3A%2F%2Frussian.people.com.cn%2F31516%2F8470040.html&psig=AOvVaw3VoI-wJ_Xo-Yt_jCmCd71Y&ust=1650886289924000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDo4OnMrPcCFQAAAAAdAAAAABAD",
+        "tags": [
+            {
+                "tag": "#Баян",
+                "url": "https://ru.wikipedia.org/wiki/Dragon_2_(%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C)"
+            },
+            {
+                "tag": "#Батут",
+                "url": "https://ru.wikipedia.org/wiki/Dragon_2_(%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C)"
+            }
+        ]
+      },
+      {
+        "id": 6,
+        "author": {
+            "name": "Алексей Антипов",
+            "photo": "https://sun3.43222.userapi.com/s/v1/ig2/Jpkwlrq0-BhHQJvVTBn33kE3O97CGOlQjJiGp8G2b9j9Sof0SOt-e5_hakks6l54t-gS9_j4DRr25d0Zbxkh4JLR.jpg?size=50x50&quality=95&crop=168,388,1520,1520&ava=1",
+            "textMainPost": "Текст поста в соц. сетях если это комментарий"
+        },
+        "time": "20:30",
+        "text": "Применение противоспутникового оружия по космическому аппарату другой страны может стать причиной начала третьей мировой войны, заявил глава \"Роскосмоса\" Дмитрий Рогозин",
+        "urlNews" : "https://yandex.ru/news/",
+        "newsImage":"https://www.google.com/url?sa=i&url=http%3A%2F%2Frussian.people.com.cn%2F31516%2F8470040.html&psig=AOvVaw3VoI-wJ_Xo-Yt_jCmCd71Y&ust=1650886289924000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDo4OnMrPcCFQAAAAAdAAAAABAD",
+        "tags": [
+            {
+                "tag": "#Баян",
+                "url": "https://ru.wikipedia.org/wiki/Dragon_2_(%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C)"
+            },
+            {
+                "tag": "#Батут",
+                "url": "https://ru.wikipedia.org/wiki/Dragon_2_(%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C)"
+            }
+        ]
+      },
+      {
+        "id": 7,
+        "author": {
+            "name": "Энвер Веисов",
+            "photo": "https://sun3.43222.userapi.com/s/v1/ig2/Jpkwlrq0-BhHQJvVTBn33kE3O97CGOlQjJiGp8G2b9j9Sof0SOt-e5_hakks6l54t-gS9_j4DRr25d0Zbxkh4JLR.jpg?size=50x50&quality=95&crop=168,388,1520,1520&ava=1",
+            "textMainPost": "Текст поста в соц. сетях если это комментарий"
+        },
+        "time": "20:30",
+        "text": "Применение противоспутникового оружия по космическому аппарату другой страны может стать причиной начала третьей мировой войны, заявил глава \"Роскосмоса\" Дмитрий Рогозин",
+        "urlNews" : "https://yandex.ru/news/",
+        "newsImage":"https://www.google.com/url?sa=i&url=http%3A%2F%2Frussian.people.com.cn%2F31516%2F8470040.html&psig=AOvVaw3VoI-wJ_Xo-Yt_jCmCd71Y&ust=1650886289924000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDo4OnMrPcCFQAAAAAdAAAAABAD",
+        "tags": [
+            {
+                "tag": "#Баян",
+                "url": "https://ru.wikipedia.org/wiki/Dragon_2_(%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C)"
+            },
+            {
+                "tag": "#Батут",
+                "url": "https://ru.wikipedia.org/wiki/Dragon_2_(%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C)"
+            }
+        ]
+      },
+      {
+        "id": 8,
+        "author": {
+            "name": "Леонид Шаповалов",
+            "photo": "https://sun3.43222.userapi.com/s/v1/ig2/Jpkwlrq0-BhHQJvVTBn33kE3O97CGOlQjJiGp8G2b9j9Sof0SOt-e5_hakks6l54t-gS9_j4DRr25d0Zbxkh4JLR.jpg?size=50x50&quality=95&crop=168,388,1520,1520&ava=1",
+            "textMainPost": "Текст поста в соц. сетях если это комментарий"
+        },
+        "time": "20:30",
+        "text": "Применение противоспутникового оружия по космическому аппарату другой страны может стать причиной начала третьей мировой войны, заявил глава \"Роскосмоса\" Дмитрий Рогозин",
+        "urlNews" : "https://yandex.ru/news/",
+        "newsImage":"https://www.google.com/url?sa=i&url=http%3A%2F%2Frussian.people.com.cn%2F31516%2F8470040.html&psig=AOvVaw3VoI-wJ_Xo-Yt_jCmCd71Y&ust=1650886289924000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDo4OnMrPcCFQAAAAAdAAAAABAD",
+        "tags": [
+            {
+                "tag": "#Баян",
+                "url": "https://ru.wikipedia.org/wiki/Dragon_2_(%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C)"
+            },
+            {
+                "tag": "#Батут",
+                "url": "https://ru.wikipedia.org/wiki/Dragon_2_(%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C)"
+            }
+        ]
+      },
+      {
+        "id": 9,
+        "author": {
+            "name": "Сергей Новгородский",
+            "photo": false,
+            "textMainPost": "Текст поста в соц. сетях если это комментарий"
+        },
+        "time": "20:30",
+        "text": "Применение противоспутникового оружия по космическому аппарату другой страны может стать причиной начала третьей мировой войны, заявил глава \"Роскосмоса\" Дмитрий Рогозин",
+        "urlNews" : "https://yandex.ru/news/",
+        "newsImage":"https://www.google.com/url?sa=i&url=http%3A%2F%2Frussian.people.com.cn%2F31516%2F8470040.html&psig=AOvVaw3VoI-wJ_Xo-Yt_jCmCd71Y&ust=1650886289924000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDo4OnMrPcCFQAAAAAdAAAAABAD",
+        "tags": [
+            {
+                "tag": "#Баян",
+                "url": "https://ru.wikipedia.org/wiki/Dragon_2_(%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C)"
+            },
+            {
+                "tag": "#Батут",
+                "url": "https://ru.wikipedia.org/wiki/Dragon_2_(%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C)"
+            }
+        ]
+      },
+      {
+        "id": 10,
+        "author": {
+            "name": "Юрий Гришин",
+            "photo": false,
+            "textMainPost": "Текст поста в соц. сетях если это комментарий"
+        },
+        "time": "20:30",
+        "text": "Применение противоспутникового оружия по космическому аппарату другой страны может стать причиной начала третьей мировой войны, заявил глава \"Роскосмоса\" Дмитрий Рогозин",
+        "urlNews" : "https://yandex.ru/news/",
+        "newsImage":"https://www.google.com/url?sa=i&url=http%3A%2F%2Frussian.people.com.cn%2F31516%2F8470040.html&psig=AOvVaw3VoI-wJ_Xo-Yt_jCmCd71Y&ust=1650886289924000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDo4OnMrPcCFQAAAAAdAAAAABAD",
+        "tags": [
+            {
+                "tag": "#Баян",
+                "url": "https://ru.wikipedia.org/wiki/Dragon_2_(%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C)"
+            },
+            {
+                "tag": "#Батут",
+                "url": "https://ru.wikipedia.org/wiki/Dragon_2_(%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C)"
+            }
+        ]
+      },
+      {
+        "id": 11,
+        "author": {
+            "name": "Михаил Белослудцев",
+            "photo": false,
+            "textMainPost": "Текст поста в соц. сетях если это комментарий"
+        },
+        "time": "20:30",
+        "text": "Применение противоспутникового оружия по космическому аппарату другой страны может стать причиной начала третьей мировой войны, заявил глава \"Роскосмоса\" Дмитрий Рогозин",
+        "urlNews" : "https://yandex.ru/news/",
+        "newsImage":"https://www.google.com/url?sa=i&url=http%3A%2F%2Frussian.people.com.cn%2F31516%2F8470040.html&psig=AOvVaw3VoI-wJ_Xo-Yt_jCmCd71Y&ust=1650886289924000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDo4OnMrPcCFQAAAAAdAAAAABAD",
+        "tags": [
+            {
+                "tag": "#Баян",
+                "url": "https://ru.wikipedia.org/wiki/Dragon_2_(%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C)"
+            },
+            {
+                "tag": "#Батут",
+                "url": "https://ru.wikipedia.org/wiki/Dragon_2_(%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C)"
+            }
+        ]
+      },
+      {
+        "id": 12,
+        "author": {
+            "name": "Дмитрий Новиков",
+            "photo": false,
+            "textMainPost": "Текст поста в соц. сетях если это комментарий"
+        },
+        "time": "20:30",
+        "text": "Применение противоспутникового оружия по космическому аппарату другой страны может стать причиной начала третьей мировой войны, заявил глава \"Роскосмоса\" Дмитрий Рогозин",
+        "urlNews" : "https://yandex.ru/news/",
+        "newsImage":"https://www.google.com/url?sa=i&url=http%3A%2F%2Frussian.people.com.cn%2F31516%2F8470040.html&psig=AOvVaw3VoI-wJ_Xo-Yt_jCmCd71Y&ust=1650886289924000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDo4OnMrPcCFQAAAAAdAAAAABAD",
+        "tags": [
+            {
+                "tag": "#Баян",
+                "url": "https://ru.wikipedia.org/wiki/Dragon_2_(%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C)"
+            },
+            {
+                "tag": "#Батут",
+                "url": "https://ru.wikipedia.org/wiki/Dragon_2_(%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C)"
+            }
+        ]
+      },
+      {
+        "id": 13,
+        "author": {
+            "name": "Александр Некрасов",
+            "photo": false,
+            "textMainPost": "Текст поста в соц. сетях если это комментарий"
+        },
+        "time": "20:30",
+        "text": "Применение противоспутникового оружия по космическому аппарату другой страны может стать причиной начала третьей мировой войны, заявил глава \"Роскосмоса\" Дмитрий Рогозин",
+        "urlNews" : "https://yandex.ru/news/",
+        "newsImage":"https://www.google.com/url?sa=i&url=http%3A%2F%2Frussian.people.com.cn%2F31516%2F8470040.html&psig=AOvVaw3VoI-wJ_Xo-Yt_jCmCd71Y&ust=1650886289924000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDo4OnMrPcCFQAAAAAdAAAAABAD",
+        "tags": [
+            {
+                "tag": "#Баян",
+                "url": "https://ru.wikipedia.org/wiki/Dragon_2_(%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C)"
+            },
+            {
+                "tag": "#Батут",
+                "url": "https://ru.wikipedia.org/wiki/Dragon_2_(%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C)"
+            }
+        ]
+      },
+      {
+        "id": 14,
+        "author": {
+            "name": "Nina Li",
+            "photo": false,
+            "textMainPost": "Текст поста в соц. сетях если это комментарий"
+        },
+        "time": "20:30",
+        "text": "Применение противоспутникового оружия по космическому аппарату другой страны может стать причиной начала третьей мировой войны, заявил глава \"Роскосмоса\" Дмитрий Рогозин",
+        "urlNews" : "https://yandex.ru/news/",
+        "newsImage":"https://www.google.com/url?sa=i&url=http%3A%2F%2Frussian.people.com.cn%2F31516%2F8470040.html&psig=AOvVaw3VoI-wJ_Xo-Yt_jCmCd71Y&ust=1650886289924000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDo4OnMrPcCFQAAAAAdAAAAABAD",
+        "tags": [
+            {
+                "tag": "#Баян",
+                "url": "https://ru.wikipedia.org/wiki/Dragon_2_(%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C)"
+            },
+            {
+                "tag": "#Батут",
+                "url": "https://ru.wikipedia.org/wiki/Dragon_2_(%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C)"
+            }
+        ]
+      },
+      {
+        "id": 15,
+        "author": {
+            "name": "Ирина Андреева",
+            "photo": "https://sun2.43222.userapi.com/s/v1/ig2/e2O2UdZUqp4a9mdScXOn1bzy0psrZdxlZspgH7vk1Xfr5W_OFkR9BYbN8fqco2ojIMWNONLxu8_KVJlzAVSJuO_G.jpg?size=50x50&quality=96&crop=1,183,957,957&ava=1",
+            "textMainPost": "Текст поста в соц. сетях если это комментарий"
+        },
+        "time": "20:30",
+        "text": "Применение противоспутникового оружия по космическому аппарату другой страны может стать причиной начала третьей мировой войны, заявил глава \"Роскосмоса\" Дмитрий Рогозин",
+        "urlNews" : "https://yandex.ru/news/",
+        "newsImage":"https://www.google.com/url?sa=i&url=http%3A%2F%2Frussian.people.com.cn%2F31516%2F8470040.html&psig=AOvVaw3VoI-wJ_Xo-Yt_jCmCd71Y&ust=1650886289924000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDo4OnMrPcCFQAAAAAdAAAAABAD",
+        "tags": [
+            {
+                "tag": "#Баян",
+                "url": "https://ru.wikipedia.org/wiki/Dragon_2_(%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C)"
+            },
+            {
+                "tag": "#Батут",
+                "url": "https://ru.wikipedia.org/wiki/Dragon_2_(%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C)"
+            }
+        ]
+      },
+      {
+        "id": 16,
+        "author": {
+            "name": "Евгений Летенков",
+            "photo": "https://sun1.43222.userapi.com/s/v1/ig2/p59X4Oy10pyglBJHitgqgz_boCwoRGNA0WTe-DxX0WYayLx0wmNK93oXLkr6Wg6q2mhTC4jxj5YK6Ogth8HziKk8.jpg?size=50x50&quality=95&crop=144,371,634,634&ava=1",
+            "textMainPost": "Текст поста в соц. сетях если это комментарий"
+        },
+        "time": "20:30",
+        "text": "Применение противоспутникового оружия по космическому аппарату другой страны может стать причиной начала третьей мировой войны, заявил глава \"Роскосмоса\" Дмитрий Рогозин",
+        "urlNews" : "https://yandex.ru/news/",
+        "newsImage":"https://www.google.com/url?sa=i&url=http%3A%2F%2Frussian.people.com.cn%2F31516%2F8470040.html&psig=AOvVaw3VoI-wJ_Xo-Yt_jCmCd71Y&ust=1650886289924000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDo4OnMrPcCFQAAAAAdAAAAABAD",
+        "tags": [
+            {
+                "tag": "#Баян",
+                "url": "https://ru.wikipedia.org/wiki/Dragon_2_(%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C)"
+            },
+            {
+                "tag": "#Батут",
+                "url": "https://ru.wikipedia.org/wiki/Dragon_2_(%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C)"
+            }
+        ]
+      },
+      {
+        "id": 17,
+        "author": {
+            "name": "Сергей Романцов",
+            "photo": "https://sun3.43222.userapi.com/s/v1/ig2/Ga8zuB90Fp1gLzru9B_F1nVlJW7D1OfBMVmcTePAJyPVTwb__JQX7Bkq57iwF9ayDKbqjua01ftURzYAVUbxXF0K.jpg?size=50x50&quality=95&crop=0,320,1256,1256&ava=1",
+            "textMainPost": "Текст поста в соц. сетях если это комментарий"
+        },
+        "time": "20:30",
+        "text": "Применение противоспутникового оружия по космическому аппарату другой страны может стать причиной начала третьей мировой войны, заявил глава \"Роскосмоса\" Дмитрий Рогозин",
+        "urlNews" : "https://yandex.ru/news/",
+        "newsImage":"https://www.google.com/url?sa=i&url=http%3A%2F%2Frussian.people.com.cn%2F31516%2F8470040.html&psig=AOvVaw3VoI-wJ_Xo-Yt_jCmCd71Y&ust=1650886289924000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDo4OnMrPcCFQAAAAAdAAAAABAD",
+        "tags": [
+            {
+                "tag": "#Баян",
+                "url": "https://ru.wikipedia.org/wiki/Dragon_2_(%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C)"
+            },
+            {
+                "tag": "#Батут",
+                "url": "https://ru.wikipedia.org/wiki/Dragon_2_(%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C)"
+            }
+        ]
+      },
+      {
+        "id": 18,
+        "author": {
+            "name": "Александр Воронов",
+            "photo": "https://sun3.43222.userapi.com/s/v1/ig2/tXbVRBVcFyTOY5Zx2YQzEJ1GSxuR3AW1cCMOWISZ3oR-tPxaDHkmUtwG9z5LkogNQmqA3OF6MEnLGi-sE5EdiCgQ.jpg?size=50x50&quality=95&crop=233,344,1206,1206&ava=1",
+            "textMainPost": "Текст поста в соц. сетях если это комментарий"
+        },
+        "time": "20:30",
+        "text": "Применение противоспутникового оружия по космическому аппарату другой страны может стать причиной начала третьей мировой войны, заявил глава \"Роскосмоса\" Дмитрий Рогозин",
+        "urlNews" : "https://yandex.ru/news/",
+        "newsImage":"https://www.google.com/url?sa=i&url=http%3A%2F%2Frussian.people.com.cn%2F31516%2F8470040.html&psig=AOvVaw3VoI-wJ_Xo-Yt_jCmCd71Y&ust=1650886289924000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDo4OnMrPcCFQAAAAAdAAAAABAD",
+        "tags": [
+            {
+                "tag": "#Баян",
+                "url": "https://ru.wikipedia.org/wiki/Dragon_2_(%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C)"
+            },
+            {
+                "tag": "#Батут",
+                "url": "https://ru.wikipedia.org/wiki/Dragon_2_(%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C)"
+            }
+        ]
+      },
+      {
+        "id": 19,
+        "author": {
+            "name": "Ефим Кербут",
+            "photo": "https://sun1.43222.userapi.com/s/v1/ig2/Kq_tHRcf75ojV-C1fecgVHOJskoD3LvvLAPjFpZRdUmAUov1e6rHkSV-YqV3qvDm6umMuo0j7x5eEI6UZ1qIgCTt.jpg?size=50x50&quality=95&crop=673,918,688,688&ava=1",
+            "textMainPost": "Текст поста в соц. сетях если это комментарий"
+        },
+        "time": "20:30",
+        "text": "Применение противоспутникового оружия по космическому аппарату другой страны может стать причиной начала третьей мировой войны, заявил глава \"Роскосмоса\" Дмитрий Рогозин",
+        "urlNews" : "https://yandex.ru/news/",
+        "newsImage":"https://www.google.com/url?sa=i&url=http%3A%2F%2Frussian.people.com.cn%2F31516%2F8470040.html&psig=AOvVaw3VoI-wJ_Xo-Yt_jCmCd71Y&ust=1650886289924000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDo4OnMrPcCFQAAAAAdAAAAABAD",
+        "tags": [
+            {
+                "tag": "#Баян",
+                "url": "https://ru.wikipedia.org/wiki/Dragon_2_(%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C)"
+            },
+            {
+                "tag": "#Батут",
+                "url": "https://ru.wikipedia.org/wiki/Dragon_2_(%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C)"
+            }
+        ]
+      },
+      {
+        "id": 20,
+        "author": {
+            "name": "Александр Воронов",
+            "photo": "https://sun2.43222.userapi.com/s/v1/ig1/JpZ8rfe_VpdtZNckVMbI0EJ4EVz9h40o7F_x5ybSCeZPzOk50uw6MERjbICQUTuiYllUtDuh.jpg?size=50x50&quality=96&crop=0,7,1227,1227&ava=1",
+            "textMainPost": "Текст поста в соц. сетях если это комментарий"
+        },
+        "time": "20:30",
+        "text": "Применение противоспутникового оружия по космическому аппарату другой страны может стать причиной начала третьей мировой войны, заявил глава \"Роскосмоса\" Дмитрий Рогозин",
+        "urlNews" : "https://yandex.ru/news/",
+        "newsImage":"https://www.google.com/url?sa=i&url=http%3A%2F%2Frussian.people.com.cn%2F31516%2F8470040.html&psig=AOvVaw3VoI-wJ_Xo-Yt_jCmCd71Y&ust=1650886289924000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDo4OnMrPcCFQAAAAAdAAAAABAD",
+        "tags": [
+            {
+                "tag": "#Баян",
+                "url": "https://ru.wikipedia.org/wiki/Dragon_2_(%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C)"
+            },
+            {
+                "tag": "#Батут",
+                "url": "https://ru.wikipedia.org/wiki/Dragon_2_(%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C)"
+            }
+        ]
+      },
+      {
+        "id": 21,
+        "author": {
+            "name": "Любовь Жидкова",
+            "photo": "https://sun2.43222.userapi.com/s/v1/ig2/thNUSgfS-sIMFTsmamMJibHKRdZp5gDSY9eh0791x8HhJ6dSWppY7wR_4y0s8MAgz_hZpnkKE6Csni_DrzNlI2Wl.jpg?size=50x50&quality=95&crop=134,24,510,510&ava=1",
+            "textMainPost": "Текст поста в соц. сетях если это комментарий"
+        },
+        "time": "20:30",
+        "text": "Применение противоспутникового оружия по космическому аппарату другой страны может стать причиной начала третьей мировой войны, заявил глава \"Роскосмоса\" Дмитрий Рогозин",
+        "urlNews" : "https://yandex.ru/news/",
+        "newsImage":"https://www.google.com/url?sa=i&url=http%3A%2F%2Frussian.people.com.cn%2F31516%2F8470040.html&psig=AOvVaw3VoI-wJ_Xo-Yt_jCmCd71Y&ust=1650886289924000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDo4OnMrPcCFQAAAAAdAAAAABAD",
+        "tags": [
+            {
+                "tag": "#Баян",
+                "url": "https://ru.wikipedia.org/wiki/Dragon_2_(%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C)"
+            },
+            {
+                "tag": "#Батут",
+                "url": "https://ru.wikipedia.org/wiki/Dragon_2_(%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C)"
+            }
+        ]
+      }
+    ]
+}
+
+  
