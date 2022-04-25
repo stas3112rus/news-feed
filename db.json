@@ -8,7 +8,7 @@
             "textMainPost": "Текст поста в соц. сетях если это комментарий"
         },
         "time": "15:51",
-        "text": "\"Россия 1\" не боится снимать сериалы о сложных и неоднозначных периодах в истории нашей страны. Это и \"В круге первом\", и \"Жизнь и судьба\", и \"Зулейха\". Идёт работа над \"Одним днём Ивана Денисовича\". Вопрос Антону Златопольскому - почему вы считаете",
+        "text": "\"Россия 1\" не боится снимать сериалы о сложных и неоднозначных периодах в истории нашей",
         "urlNews" : "http://google.com/",
         "newsImage": false,
         "tags": [
@@ -59,11 +59,7 @@
             {
                 "tag": "#Баян",
                 "url": "https://ru.wikipedia.org/"
-            },
-            {
-                "tag": "#Батут",
-                "url": "https://ru.wikipedia.org/"
-            }
+            }            
         ]
       },
       {
@@ -80,10 +76,6 @@
         "tags": [
             {
                 "tag": "#Баян",
-                "url": "https://ru.wikipedia.org/"
-            },
-            {
-                "tag": "#Батут",
                 "url": "https://ru.wikipedia.org/"
             }
         ]
@@ -295,114 +287,6 @@
         },
         "time": "16:06",
         "text": "Текст новости 16",
-        "urlNews" : "https://yandex.ru/news/",
-        "newsImage":"https://mebel-360.ru/news-feed/2.jpeg",
-        "tags": [
-            {
-                "tag": "#Баян",
-                "url": "https://ru.wikipedia.org/"
-            }
-        ]
-      },
-      {
-        "id": 17,
-        "author": {
-            "name": "Автор 17",
-            "photo": "https://mebel-360.ru/news-feed/1.jpg",
-            "textMainPost": "Текст 17"
-        },
-        "time": "16:07",
-        "text": "Текст новости 17",
-        "urlNews" : "https://yandex.ru/news/",
-        "newsImage":"https://mebel-360.ru/news-feed/2.jpeg",
-        "tags": [
-            {
-                "tag": "#Баян",
-                "url": "https://ru.wikipedia.org/"
-            }
-        ]
-      },
-      {
-        "id": 18,
-        "author": {
-            "name": "Автор 18",
-            "photo": "https://mebel-360.ru/news-feed/1.jpg",
-            "textMainPost": "Текст 18"
-        },
-        "time": "16:08",
-        "text": "Текст новости 18",
-        "urlNews" : "https://yandex.ru/news/",
-        "newsImage":"https://mebel-360.ru/news-feed/2.jpeg",
-        "tags": [
-            {
-                "tag": "#Баян",
-                "url": "https://ru.wikipedia.org/"
-            }
-        ]
-      },
-      {
-        "id": 19,
-        "author": {
-            "name": "Автор 19",
-            "photo": "https://mebel-360.ru/news-feed/1.jpg",
-            "textMainPost": "Текст 19"
-        },
-        "time": "16:09",
-        "text": "Текст новости 19",
-        "urlNews" : "https://yandex.ru/news/",
-        "newsImage":"https://mebel-360.ru/news-feed/2.jpeg",
-        "tags": [
-            {
-                "tag": "#Баян",
-                "url": "https://ru.wikipedia.org/"
-            }
-        ]
-      },
-      {
-        "id": 20,
-        "author": {
-            "name": "Автор 20",
-            "photo": "https://mebel-360.ru/news-feed/1.jpg",
-            "textMainPost": "Текст 20"
-        },
-        "time": "16:10",
-        "text": "Текст новости 20",
-        "urlNews" : "https://yandex.ru/news/",
-        "newsImage":"https://mebel-360.ru/news-feed/2.jpeg",
-        "tags": [
-            {
-                "tag": "#Баян",
-                "url": "https://ru.wikipedia.org/"
-            }
-        ]
-      },
-      {
-        "id": 21,
-        "author": {
-            "name": "Автор 21",
-            "photo": "https://mebel-360.ru/news-feed/1.jpg",
-            "textMainPost": "Текст 21"
-        },
-        "time": "16:11",
-        "text": "Текст новости 21",
-        "urlNews" : "https://yandex.ru/news/",
-        "newsImage":"https://mebel-360.ru/news-feed/2.jpeg",
-        "tags": [
-            {
-                "tag": "#Баян",
-                "url": "https://ru.wikipedia.org/"
-            }
-        ]
-      },
-      {
-        "id": 22,
-        "author": {
-            "name": "Автор 22",
-            "photo": "https://mebel-360.ru/news-feed/1.jpg",
-            "textMainPost": "Текст 22"
-        },
-        "time": "16:12",
-        "text": "Текст новости 22",
         "urlNews" : "https://yandex.ru/news/",
         "newsImage":"https://mebel-360.ru/news-feed/2.jpeg",
         "tags": [
