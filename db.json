@@ -26,7 +26,7 @@
         "id": 2,
         "author": {
             "name": "Петр петров",
-            "photo": "https://sun3.43222.userapi.com/s/v1/ig2/Jpkwlrq0-BhHQJvVTBn33kE3O97CGOlQjJiGp8G2b9j9Sof0SOt-e5_hakks6l54t-gS9_j4DRr25d0Zbxkh4JLR.jpg?size=50x50&quality=95&crop=168,388,1520,1520&ava=1",
+            "photo": "https://mebel-360.ru/news-feed/1.jpg",
             "textMainPost": "Текст поста в соц. сетях если это комментарий"
         },
         "time": "15:52",
@@ -48,13 +48,13 @@
         "id": 3,
         "author": {
             "name": "Григорий Изумрудов",
-            "photo": "https://sun3.43222.userapi.com/s/v1/ig2/Jpkwlrq0-BhHQJvVTBn33kE3O97CGOlQjJiGp8G2b9j9Sof0SOt-e5_hakks6l54t-gS9_j4DRr25d0Zbxkh4JLR.jpg?size=50x50&quality=95&crop=168,388,1520,1520&ava=1",
+            "photo": "https://mebel-360.ru/news-feed/1.jpg",
             "textMainPost": "Текст поста в соц. сетях если это комментарий"
         },
         "time": "15:53",
         "text": "Применение противоспутникового оружия по космическому аппарату другой страны может стать причиной начала третьей мировой войны, заявил глава \"Роскосмоса\" Дмитрий Рогозин",
         "urlNews" : "https://yandex.ru/news/",
-        "newsImage":"https://www.pandotrip.com/wp-content/uploads/2013/07/Tuscany-by-Leonardo-Acquisti-980x551.jpeg",
+        "newsImage":"https://mebel-360.ru/news-feed/2.jpeg",
         "tags": [
             {
                 "tag": "#Баян",
@@ -65,8 +65,353 @@
                 "url": "https://ru.wikipedia.org/"
             }
         ]
-      }
-      
+      },
+      {
+        "id": 4,
+        "author": {
+            "name": "Автор 4",
+            "photo": "https://mebel-360.ru/news-feed/1.jpg",
+            "textMainPost": "Текст 4"
+        },
+        "time": "15:54",
+        "text": "Текст новости 4",
+        "urlNews" : "https://yandex.ru/news/",
+        "newsImage":"https://mebel-360.ru/news-feed/2.jpeg",
+        "tags": [
+            {
+                "tag": "#Баян",
+                "url": "https://ru.wikipedia.org/"
+            },
+            {
+                "tag": "#Батут",
+                "url": "https://ru.wikipedia.org/"
+            }
+        ]
+      },
+      {
+        "id": 5,
+        "author": {
+            "name": "Автор 5",
+            "photo": "https://mebel-360.ru/news-feed/1.jpg",
+            "textMainPost": "Текст 5"
+        },
+        "time": "15:55",
+        "text": "Текст новости 5",
+        "urlNews" : "https://yandex.ru/news/",
+        "newsImage":"https://mebel-360.ru/news-feed/2.jpeg",
+        "tags": [
+            {
+                "tag": "#Баян",
+                "url": "https://ru.wikipedia.org/"
+            }
+        ]
+      },
+      {
+        "id": 6,
+        "author": {
+            "name": "Автор 6",
+            "photo": "https://mebel-360.ru/news-feed/1.jpg",
+            "textMainPost": "Текст 6"
+        },
+        "time": "15:56",
+        "text": "Текст новости 6",
+        "urlNews" : "https://yandex.ru/news/",
+        "newsImage":"https://mebel-360.ru/news-feed/2.jpeg",
+        "tags": [
+            {
+                "tag": "#Баян",
+                "url": "https://ru.wikipedia.org/"
+            }
+        ]
+      },
+      {
+        "id": 7,
+        "author": {
+            "name": "Автор 7",
+            "photo": "https://mebel-360.ru/news-feed/1.jpg",
+            "textMainPost": "Текст 7"
+        },
+        "time": "15:57",
+        "text": "Текст новости 7",
+        "urlNews" : "https://yandex.ru/news/",
+        "newsImage":"https://mebel-360.ru/news-feed/2.jpeg",
+        "tags": [
+            {
+                "tag": "#Баян",
+                "url": "https://ru.wikipedia.org/"
+            }
+        ]
+      },
+      {
+        "id": 8,
+        "author": {
+            "name": "Автор 8",
+            "photo": "https://mebel-360.ru/news-feed/1.jpg",
+            "textMainPost": "Текст 8"
+        },
+        "time": "15:55",
+        "text": "Текст новости 8",
+        "urlNews" : "https://yandex.ru/news/",
+        "newsImage":"https://mebel-360.ru/news-feed/2.jpeg",
+        "tags": [
+            {
+                "tag": "#Баян",
+                "url": "https://ru.wikipedia.org/"
+            }
+        ]
+      },
+      {
+        "id": 9,
+        "author": {
+            "name": "Автор 9",
+            "photo": "https://mebel-360.ru/news-feed/1.jpg",
+            "textMainPost": "Текст 9"
+        },
+        "time": "15:59",
+        "text": "Текст новости 9",
+        "urlNews" : "https://yandex.ru/news/",
+        "newsImage":"https://mebel-360.ru/news-feed/2.jpeg",
+        "tags": [
+            {
+                "tag": "#Баян",
+                "url": "https://ru.wikipedia.org/"
+            }
+        ]
+      },
+      {
+        "id": 10,
+        "author": {
+            "name": "Автор 10",
+            "photo": "https://mebel-360.ru/news-feed/1.jpg",
+            "textMainPost": "Текст 10"
+        },
+        "time": "16:00",
+        "text": "Текст новости 10",
+        "urlNews" : "https://yandex.ru/news/",
+        "newsImage":"https://mebel-360.ru/news-feed/2.jpeg",
+        "tags": [
+            {
+                "tag": "#Баян",
+                "url": "https://ru.wikipedia.org/"
+            }
+        ]
+      },
+      {
+        "id": 11,
+        "author": {
+            "name": "Автор 11",
+            "photo": "https://mebel-360.ru/news-feed/1.jpg",
+            "textMainPost": "Текст 11"
+        },
+        "time": "16:01",
+        "text": "Текст новости 11",
+        "urlNews" : "https://yandex.ru/news/",
+        "newsImage":"https://mebel-360.ru/news-feed/2.jpeg",
+        "tags": [
+            {
+                "tag": "#Баян",
+                "url": "https://ru.wikipedia.org/"
+            }
+        ]
+      },
+      {
+        "id": 12,
+        "author": {
+            "name": "Автор 12",
+            "photo": "https://mebel-360.ru/news-feed/1.jpg",
+            "textMainPost": "Текст12"
+        },
+        "time": "16:02",
+        "text": "Текст новости 12",
+        "urlNews" : "https://yandex.ru/news/",
+        "newsImage":"https://mebel-360.ru/news-feed/2.jpeg",
+        "tags": [
+            {
+                "tag": "#Баян",
+                "url": "https://ru.wikipedia.org/"
+            }
+        ]
+      },
+      {
+        "id": 13,
+        "author": {
+            "name": "Автор 13",
+            "photo": "https://mebel-360.ru/news-feed/1.jpg",
+            "textMainPost": "Текст 13"
+        },
+        "time": "16:03",
+        "text": "Текст новости 13",
+        "urlNews" : "https://yandex.ru/news/",
+        "newsImage":"https://mebel-360.ru/news-feed/2.jpeg",
+        "tags": [
+            {
+                "tag": "#Баян",
+                "url": "https://ru.wikipedia.org/"
+            }
+        ]
+      },
+      {
+        "id": 141,
+        "author": {
+            "name": "Автор 141",
+            "photo": "https://mebel-360.ru/news-feed/1.jpg",
+            "textMainPost": "Текст 141"
+        },
+        "time": "16:04",
+        "text": "Текст новости 141",
+        "urlNews" : "https://yandex.ru/news/",
+        "newsImage":"https://mebel-360.ru/news-feed/2.jpeg",
+        "tags": [
+            {
+                "tag": "#Баян",
+                "url": "https://ru.wikipedia.org/"
+            }
+        ]
+      },
+      {
+        "id": 15,
+        "author": {
+            "name": "Автор 15",
+            "photo": "https://mebel-360.ru/news-feed/1.jpg",
+            "textMainPost": "Текст 15"
+        },
+        "time": "16:05",
+        "text": "Текст новости 15",
+        "urlNews" : "https://yandex.ru/news/",
+        "newsImage":"https://mebel-360.ru/news-feed/2.jpeg",
+        "tags": [
+            {
+                "tag": "#Баян",
+                "url": "https://ru.wikipedia.org/"
+            }
+        ]
+      },
+      {
+        "id": 16,
+        "author": {
+            "name": "Автор 16",
+            "photo": "https://mebel-360.ru/news-feed/1.jpg",
+            "textMainPost": "Текст 16"
+        },
+        "time": "16:06",
+        "text": "Текст новости 16",
+        "urlNews" : "https://yandex.ru/news/",
+        "newsImage":"https://mebel-360.ru/news-feed/2.jpeg",
+        "tags": [
+            {
+                "tag": "#Баян",
+                "url": "https://ru.wikipedia.org/"
+            }
+        ]
+      },
+      {
+        "id": 17,
+        "author": {
+            "name": "Автор 17",
+            "photo": "https://mebel-360.ru/news-feed/1.jpg",
+            "textMainPost": "Текст 17"
+        },
+        "time": "16:07",
+        "text": "Текст новости 17",
+        "urlNews" : "https://yandex.ru/news/",
+        "newsImage":"https://mebel-360.ru/news-feed/2.jpeg",
+        "tags": [
+            {
+                "tag": "#Баян",
+                "url": "https://ru.wikipedia.org/"
+            }
+        ]
+      },
+      {
+        "id": 18,
+        "author": {
+            "name": "Автор 18",
+            "photo": "https://mebel-360.ru/news-feed/1.jpg",
+            "textMainPost": "Текст 18"
+        },
+        "time": "16:08",
+        "text": "Текст новости 18",
+        "urlNews" : "https://yandex.ru/news/",
+        "newsImage":"https://mebel-360.ru/news-feed/2.jpeg",
+        "tags": [
+            {
+                "tag": "#Баян",
+                "url": "https://ru.wikipedia.org/"
+            }
+        ]
+      },
+      {
+        "id": 19,
+        "author": {
+            "name": "Автор 19",
+            "photo": "https://mebel-360.ru/news-feed/1.jpg",
+            "textMainPost": "Текст 19"
+        },
+        "time": "16:09",
+        "text": "Текст новости 19",
+        "urlNews" : "https://yandex.ru/news/",
+        "newsImage":"https://mebel-360.ru/news-feed/2.jpeg",
+        "tags": [
+            {
+                "tag": "#Баян",
+                "url": "https://ru.wikipedia.org/"
+            }
+        ]
+      },
+      {
+        "id": 20,
+        "author": {
+            "name": "Автор 20",
+            "photo": "https://mebel-360.ru/news-feed/1.jpg",
+            "textMainPost": "Текст 20"
+        },
+        "time": "16:10",
+        "text": "Текст новости 20",
+        "urlNews" : "https://yandex.ru/news/",
+        "newsImage":"https://mebel-360.ru/news-feed/2.jpeg",
+        "tags": [
+            {
+                "tag": "#Баян",
+                "url": "https://ru.wikipedia.org/"
+            }
+        ]
+      },
+      {
+        "id": 21,
+        "author": {
+            "name": "Автор 21",
+            "photo": "https://mebel-360.ru/news-feed/1.jpg",
+            "textMainPost": "Текст 21"
+        },
+        "time": "16:11",
+        "text": "Текст новости 21",
+        "urlNews" : "https://yandex.ru/news/",
+        "newsImage":"https://mebel-360.ru/news-feed/2.jpeg",
+        "tags": [
+            {
+                "tag": "#Баян",
+                "url": "https://ru.wikipedia.org/"
+            }
+        ]
+      },
+      {
+        "id": 22,
+        "author": {
+            "name": "Автор 22",
+            "photo": "https://mebel-360.ru/news-feed/1.jpg",
+            "textMainPost": "Текст 22"
+        },
+        "time": "16:12",
+        "text": "Текст новости 22",
+        "urlNews" : "https://yandex.ru/news/",
+        "newsImage":"https://mebel-360.ru/news-feed/2.jpeg",
+        "tags": [
+            {
+                "tag": "#Баян",
+                "url": "https://ru.wikipedia.org/"
+            }
+        ]
+      }      
     ]
 }
 
