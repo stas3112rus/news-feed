@@ -2,7 +2,7 @@ const initialState = {
     status: "loading",
     directionNewsDirectly: true,    
     allNews: [],
-    newsOnFirst: 20,
+    newsOnFirst: 10,
     firstNewsId: 0,
     lastNewsId: 0,
     newsLoadingStatus: "idle",
